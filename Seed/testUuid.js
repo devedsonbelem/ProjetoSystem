@@ -1,4 +1,4 @@
-const UserDto = require('../Dto/UserDto');
+const UserDto = require('../Dto/UsersDto');
 const obj = new UserDto;
 obj.gerarUuid();
 
